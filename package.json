@@ -1,0 +1,18 @@
+{
+  "name": "avaliacao_interpessoal",
+  "version": "v0.0.1-240311",
+  "license": "none",
+  "description": "",
+  "private": false,
+  "scripts": {
+    "dev": "yarn php | yarn tailwind ",
+    "php": "php -S localhost:8000",
+    "tailwind": "yarn tailwindcss -i ./src/input.css -o ./dist/style.css --watch"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  },
+  "dependencies": {
+    "flowbite": "^2.3.0"
+  }
+}
