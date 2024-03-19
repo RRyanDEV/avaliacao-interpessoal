@@ -1,9 +1,9 @@
-<!-- 
+<!--
 Readme used from model
-https://github.com/othneildrew/Best-README-Template 
+https://github.com/othneildrew/Best-README-Template
 -->
-<a name="readme-top"></a>
 
+<a name="readme-top"></a>
 
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
@@ -45,6 +45,12 @@ O projeto de Avaliação Interpessoal busca proporcionar uma análise abrangente
 
 </a>
 
+### v0.0.2-240319
+
+- Criado os componentes da `Navbar` , `Acordeão` e `Avaliação`.
+- Introdução a homepage.
+- Adicionado o ícone de usuário.
+
 ### v0.0.1-240311
 
 - Criação do repositório
@@ -61,6 +67,7 @@ O projeto de Avaliação Interpessoal busca proporcionar uma análise abrangente
 <a name="section-autores">
 
 ### Autores
+
 </a>
 
 <table>
@@ -80,18 +87,13 @@ O projeto de Avaliação Interpessoal busca proporcionar uma análise abrangente
 
 [stars-shield]: https://img.shields.io/github/stars/RRyanDEV/avaliacao-interpessoal?style=for-the-badge
 [stars-url]: https://github.com/RRyanDEV/avaliacao-interpessoal/stargazers
-
 [issues-shield]: https://img.shields.io/github/issues/RRyanDEV/avaliacao-interpessoal?style=for-the-badge
 [issues-url]: https://github.com/RRyanDEV/avaliacao-interpessoal/issues
-
 [HTML]: https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
 [html-url]: https://developer.mozilla.org/pt-BR/docs/Web/HTML
-
 [PHP]: https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white
 [php-url]: https://www.php.net
-
 [TailwindCSS]: https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white
 [tailwind-url]: https://tailwindcss.com
-
 [MYSQL]: https://img.shields.io/badge/mysql-%23316192.svg?style=for-the-badge&logo=mysql&logoColor=white
 [mysql-url]: https://www.mysql.com
